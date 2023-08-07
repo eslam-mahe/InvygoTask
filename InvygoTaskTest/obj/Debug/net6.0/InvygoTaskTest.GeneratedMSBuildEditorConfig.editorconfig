@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InvygoTaskTest
-build_property.ProjectDir = C:\Repos\Invygo-Task\InvygoTaskTest\
+build_property.ProjectDir = C:\Repos\InvygoTask\InvygoTaskTest\

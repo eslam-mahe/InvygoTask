@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5UZVmKom0rEe+YTX9fBiCKNLqLynHzss3mCD6sToZ0OBGE+CTSAHeADVmEC3cxLUtXQOuvzSy9jbW47xFrmhLA==",
+  "dgSpecHash": "2zc5n3AmklMFmCzh93IOYNArn6mBsbjInMsF5jbIGvCbFTn50Zdanwg8+Gf2Z+aEu5KCtwY+imgmYVjt7/HKfA==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\Invygo-Task\\InvygoTaskTest\\InvygoTaskTest.csproj",
+  "projectFilePath": "C:\\Repos\\InvygoTask\\InvygoTaskTest\\InvygoTaskTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emaher\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\emaher\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
