@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StaffSchedulingSystem.props" />
+</Project>
